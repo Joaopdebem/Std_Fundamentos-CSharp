@@ -1,0 +1,15 @@
+C:\Dev\baltaio\Fundamentos_CSharp\DateApp\bin\Debug\net7.0\DateApp.exe
+C:\Dev\baltaio\Fundamentos_CSharp\DateApp\bin\Debug\net7.0\DateApp.deps.json
+C:\Dev\baltaio\Fundamentos_CSharp\DateApp\bin\Debug\net7.0\DateApp.runtimeconfig.json
+C:\Dev\baltaio\Fundamentos_CSharp\DateApp\bin\Debug\net7.0\DateApp.dll
+C:\Dev\baltaio\Fundamentos_CSharp\DateApp\bin\Debug\net7.0\DateApp.pdb
+C:\Dev\baltaio\Fundamentos_CSharp\DateApp\obj\Debug\net7.0\DateApp.csproj.AssemblyReference.cache
+C:\Dev\baltaio\Fundamentos_CSharp\DateApp\obj\Debug\net7.0\DateApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\baltaio\Fundamentos_CSharp\DateApp\obj\Debug\net7.0\DateApp.AssemblyInfoInputs.cache
+C:\Dev\baltaio\Fundamentos_CSharp\DateApp\obj\Debug\net7.0\DateApp.AssemblyInfo.cs
+C:\Dev\baltaio\Fundamentos_CSharp\DateApp\obj\Debug\net7.0\DateApp.csproj.CoreCompileInputs.cache
+C:\Dev\baltaio\Fundamentos_CSharp\DateApp\obj\Debug\net7.0\DateApp.dll
+C:\Dev\baltaio\Fundamentos_CSharp\DateApp\obj\Debug\net7.0\refint\DateApp.dll
+C:\Dev\baltaio\Fundamentos_CSharp\DateApp\obj\Debug\net7.0\DateApp.pdb
+C:\Dev\baltaio\Fundamentos_CSharp\DateApp\obj\Debug\net7.0\DateApp.genruntimeconfig.cache
+C:\Dev\baltaio\Fundamentos_CSharp\DateApp\obj\Debug\net7.0\ref\DateApp.dll

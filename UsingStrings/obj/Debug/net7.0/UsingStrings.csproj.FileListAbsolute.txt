@@ -1,0 +1,15 @@
+C:\Dev\baltaio\Fundamentos_CSharp\UsingStrings\bin\Debug\net7.0\UsingStrings.exe
+C:\Dev\baltaio\Fundamentos_CSharp\UsingStrings\bin\Debug\net7.0\UsingStrings.deps.json
+C:\Dev\baltaio\Fundamentos_CSharp\UsingStrings\bin\Debug\net7.0\UsingStrings.runtimeconfig.json
+C:\Dev\baltaio\Fundamentos_CSharp\UsingStrings\bin\Debug\net7.0\UsingStrings.dll
+C:\Dev\baltaio\Fundamentos_CSharp\UsingStrings\bin\Debug\net7.0\UsingStrings.pdb
+C:\Dev\baltaio\Fundamentos_CSharp\UsingStrings\obj\Debug\net7.0\UsingStrings.csproj.AssemblyReference.cache
+C:\Dev\baltaio\Fundamentos_CSharp\UsingStrings\obj\Debug\net7.0\UsingStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\baltaio\Fundamentos_CSharp\UsingStrings\obj\Debug\net7.0\UsingStrings.AssemblyInfoInputs.cache
+C:\Dev\baltaio\Fundamentos_CSharp\UsingStrings\obj\Debug\net7.0\UsingStrings.AssemblyInfo.cs
+C:\Dev\baltaio\Fundamentos_CSharp\UsingStrings\obj\Debug\net7.0\UsingStrings.csproj.CoreCompileInputs.cache
+C:\Dev\baltaio\Fundamentos_CSharp\UsingStrings\obj\Debug\net7.0\UsingStrings.dll
+C:\Dev\baltaio\Fundamentos_CSharp\UsingStrings\obj\Debug\net7.0\refint\UsingStrings.dll
+C:\Dev\baltaio\Fundamentos_CSharp\UsingStrings\obj\Debug\net7.0\UsingStrings.pdb
+C:\Dev\baltaio\Fundamentos_CSharp\UsingStrings\obj\Debug\net7.0\UsingStrings.genruntimeconfig.cache
+C:\Dev\baltaio\Fundamentos_CSharp\UsingStrings\obj\Debug\net7.0\ref\UsingStrings.dll

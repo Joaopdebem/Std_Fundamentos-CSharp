@@ -1,0 +1,15 @@
+C:\Dev\baltaio\Fundamentos_CSharp\CatchErrors\bin\Debug\net7.0\CatchErrors.exe
+C:\Dev\baltaio\Fundamentos_CSharp\CatchErrors\bin\Debug\net7.0\CatchErrors.deps.json
+C:\Dev\baltaio\Fundamentos_CSharp\CatchErrors\bin\Debug\net7.0\CatchErrors.runtimeconfig.json
+C:\Dev\baltaio\Fundamentos_CSharp\CatchErrors\bin\Debug\net7.0\CatchErrors.dll
+C:\Dev\baltaio\Fundamentos_CSharp\CatchErrors\bin\Debug\net7.0\CatchErrors.pdb
+C:\Dev\baltaio\Fundamentos_CSharp\CatchErrors\obj\Debug\net7.0\CatchErrors.csproj.AssemblyReference.cache
+C:\Dev\baltaio\Fundamentos_CSharp\CatchErrors\obj\Debug\net7.0\CatchErrors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\baltaio\Fundamentos_CSharp\CatchErrors\obj\Debug\net7.0\CatchErrors.AssemblyInfoInputs.cache
+C:\Dev\baltaio\Fundamentos_CSharp\CatchErrors\obj\Debug\net7.0\CatchErrors.AssemblyInfo.cs
+C:\Dev\baltaio\Fundamentos_CSharp\CatchErrors\obj\Debug\net7.0\CatchErrors.csproj.CoreCompileInputs.cache
+C:\Dev\baltaio\Fundamentos_CSharp\CatchErrors\obj\Debug\net7.0\CatchErrors.dll
+C:\Dev\baltaio\Fundamentos_CSharp\CatchErrors\obj\Debug\net7.0\refint\CatchErrors.dll
+C:\Dev\baltaio\Fundamentos_CSharp\CatchErrors\obj\Debug\net7.0\CatchErrors.pdb
+C:\Dev\baltaio\Fundamentos_CSharp\CatchErrors\obj\Debug\net7.0\CatchErrors.genruntimeconfig.cache
+C:\Dev\baltaio\Fundamentos_CSharp\CatchErrors\obj\Debug\net7.0\ref\CatchErrors.dll

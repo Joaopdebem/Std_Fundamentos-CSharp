@@ -1,0 +1,15 @@
+C:\Dev\baltaio\Fundamentos_CSharp\WorkInArrays\bin\Debug\net7.0\WorkInArrays.exe
+C:\Dev\baltaio\Fundamentos_CSharp\WorkInArrays\bin\Debug\net7.0\WorkInArrays.deps.json
+C:\Dev\baltaio\Fundamentos_CSharp\WorkInArrays\bin\Debug\net7.0\WorkInArrays.runtimeconfig.json
+C:\Dev\baltaio\Fundamentos_CSharp\WorkInArrays\bin\Debug\net7.0\WorkInArrays.dll
+C:\Dev\baltaio\Fundamentos_CSharp\WorkInArrays\bin\Debug\net7.0\WorkInArrays.pdb
+C:\Dev\baltaio\Fundamentos_CSharp\WorkInArrays\obj\Debug\net7.0\WorkInArrays.csproj.AssemblyReference.cache
+C:\Dev\baltaio\Fundamentos_CSharp\WorkInArrays\obj\Debug\net7.0\WorkInArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\baltaio\Fundamentos_CSharp\WorkInArrays\obj\Debug\net7.0\WorkInArrays.AssemblyInfoInputs.cache
+C:\Dev\baltaio\Fundamentos_CSharp\WorkInArrays\obj\Debug\net7.0\WorkInArrays.AssemblyInfo.cs
+C:\Dev\baltaio\Fundamentos_CSharp\WorkInArrays\obj\Debug\net7.0\WorkInArrays.csproj.CoreCompileInputs.cache
+C:\Dev\baltaio\Fundamentos_CSharp\WorkInArrays\obj\Debug\net7.0\WorkInArrays.dll
+C:\Dev\baltaio\Fundamentos_CSharp\WorkInArrays\obj\Debug\net7.0\refint\WorkInArrays.dll
+C:\Dev\baltaio\Fundamentos_CSharp\WorkInArrays\obj\Debug\net7.0\WorkInArrays.pdb
+C:\Dev\baltaio\Fundamentos_CSharp\WorkInArrays\obj\Debug\net7.0\WorkInArrays.genruntimeconfig.cache
+C:\Dev\baltaio\Fundamentos_CSharp\WorkInArrays\obj\Debug\net7.0\ref\WorkInArrays.dll
